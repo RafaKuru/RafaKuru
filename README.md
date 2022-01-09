@@ -20,7 +20,7 @@
     <img align="center" alt="RafaKuru-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
     <img align="center" alt="RafaKuru-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" title="Sass"/>
     <img align="center" alt="RafaKuru-stylus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" alt="Stylus" title="Stylus"/>
-  <img align="center" alt="RafaKuru-handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="Handlebars" title="Handlebars"/>
+  <img align="center" alt="RafaKuru-handlebars" height="30" width="40" src="https://codyhouse.co/web/assets/img/main/handlebars.svg" alt="Handlebars" title="Handlebars"/>
 </div>
     <img align="center" alt="RafaKuru-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
     <img align="center" alt="RafaKuru-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/>
