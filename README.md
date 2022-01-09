@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/RafaKuru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaKuru&show_icons=true&include_all_commits=true&count_private=true&bg_color=030303&title_color=ff7307&icon_color=fea625&text_color=bfb79e"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaKuru&layout=compact&langs_count=8&bg_color=030303&title_color=ff7307&icon_color=fea625&text_color=bfb79e"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaKuru&theme=apprentice&show_icons=true&include_all_commits=true&count_private=true&bg_color=200d05&icon_color=f1c34b"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaKuru&theme=apprentice&layout=compact&langs_count=8&bg_color=200d05&icon_color=f1c34b"/>
   </a>
 </div>
 
@@ -20,6 +20,8 @@
     <img align="center" alt="RafaKuru-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
     <img align="center" alt="RafaKuru-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" title="Sass"/>
     <img align="center" alt="RafaKuru-stylus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" alt="Stylus" title="Stylus"/>
+  <img align="center" alt="RafaKuru-handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="Handlebars" title="Handlebars"/>
+</div>
     <img align="center" alt="RafaKuru-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
     <img align="center" alt="RafaKuru-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C"/>
 </div>
@@ -42,6 +44,7 @@
 <div style="display: inline-block"><br>
     <p><strong>Platforms & CMS</strong></p>
     <img align="center" alt="RafaKuru-wordpress" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316902333001758/wordpress.png" alt="WordPress" title="WordPress" />
+  <img align="center" alt="RafaKuru-bigcommerce" height="40" width="40" src="https://static.chief.io/media/products/bigcommerce_profile.jpeg" alt="BigCommerce" title="BigCommerce"/>
     <img align="center" alt="RafaKuru-vtex" height="40" width="80" src="https://cdn.discordapp.com/attachments/764603203991109714/904062694083158106/vtex.png" alt="VTEX" title="VTEX"/>
     <img align="center" alt="RafaKuru-tray" style="margin-right:15px" height="30" width="60" src="https://cdn.discordapp.com/attachments/764603203991109714/904063299371552768/tray.png" alt="Tray" title="Tray"/>
     <img align="center" alt="RafaKuru-fbits" height="30" width="80" src="https://cdn.discordapp.com/attachments/764603203991109714/904063294258675833/FBITS.png" alt="Fbits" title="Fbits"/>
